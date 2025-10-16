@@ -12,3 +12,4 @@ c:\Users\alanb\OneDrive\Documents\Desktop\In easy Steps\C#\Variables\obj\Debug\n
 c:\Users\alanb\OneDrive\Documents\Desktop\In easy Steps\C#\Variables\obj\Debug\net9.0\Variables.pdb
 c:\Users\alanb\OneDrive\Documents\Desktop\In easy Steps\C#\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
 c:\Users\alanb\OneDrive\Documents\Desktop\In easy Steps\C#\Variables\obj\Debug\net9.0\ref\Variables.dll
+c:\Users\alanb\OneDrive\Documents\Desktop\In easy Steps\C#\Variables\obj\Debug\net9.0\Variables.sourcelink.json
